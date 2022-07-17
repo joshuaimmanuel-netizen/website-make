@@ -1,0 +1,14 @@
+.headerleft{
+    background-color: blueviolet;
+    width: 10000px;
+    display:flex;
+    justify-content:space-around ;
+    
+}
+.headerright{
+    background-color: blueviolet;
+    color: azure;
+    width: 600px;
+    display: flex;
+    justify-content: space-around;
+}
